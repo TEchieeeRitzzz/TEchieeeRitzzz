@@ -144,28 +144,6 @@ Software Engineer & Cyber Specialist with a deep focus on building scalable ente
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9370DB&icon_color=8A2BE2&text_color=c9d1d9" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&ring=9370DB&fire=8A2BE2&currStreakLabel=9370DB" alt="GitHub Streak" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9370DB&text_color=c9d1d9" alt="Top Languages" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">

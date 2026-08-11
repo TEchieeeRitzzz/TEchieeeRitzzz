@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Enterprise%20Engineer&fontSize=50&fontAlignY=38&desc=Software%20Engineering%20|%20AI%20Architecture&descAlignY=55&descAlign=50" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Cyber%20Security&fontSize=50&fontAlignY=38&desc=Ethical%20Hacking%20|%20AI%20Architecture&descAlignY=55&descAlign=50" alt="Header Wave" />
   <br/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%2F+ML+Specialist;Full-Stack+Architect;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=+Ethical+Hacker;AI+%2F+ML+Specialist;Full-Stack+Dev;Open+Source+Contributor" alt="Typing SVG" />
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/M.S.-Computer_Science-4B0082?style=flat-square&logo=google-scholar&logoColor=white" alt="Academic Badge" />
@@ -24,7 +24,7 @@
 
 ## About
 
-Software Engineer with a deep focus on building scalable enterprise solutions and integrating advanced Artificial Intelligence and Machine Learning models. Experienced in driving end-to-end full-stack development with a rigorous product engineering mindset, ensuring optimal performance, robust security, and seamless user experiences at scale. 
+Software Engineer & Cyber Specialist with a deep focus on building scalable enterprise solutions and integrating advanced Artificial Intelligence and Machine Learning models. Experienced in driving end-to-end full-stack development with a rigorous product engineering mindset, ensuring optimal performance, robust security, and seamless user experiences at scale. 
 
 **Open To:** Software Engineering roles, AI/ML Architecture positions, and Open Source collaborations.
 
@@ -54,7 +54,7 @@ Software Engineer with a deep focus on building scalable enterprise solutions an
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Deep Learning** | Advanced | PyTorch, TensorFlow, Neural Networks, CNNs, RNNs |
+| **Deep Learning** | Advanced | Kali , PyTorch, TensorFlow, Neural Networks, CNNs, RNNs |
 | **NLP & LLMs** | Advanced | Transformers, HuggingFace, LangChain, Fine-tuning, RAG |
 | **Computer Vision** | Intermediate | OpenCV, YOLO, Object Detection, Image Segmentation |
 | **MLOps** | Advanced | Model Deployment, MLflow, Weights & Biases, Triton Inference Server |
@@ -103,7 +103,7 @@ Software Engineer with a deep focus on building scalable enterprise solutions an
 
 ## Experience
 
-**SOC Analyst**  
+**SOC Analyst Intern**  
 *Oracle (Mumbai)* | *Jun 2024 - Till Date*  
 
 ---

@@ -174,13 +174,6 @@ Software Engineer & Cyber Specialist with a deep focus on building scalable ente
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TEchieeeRitzzz/TEchieeeRitzzz/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
 
 ## Current Focus
 

@@ -5,8 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=+Ethical+Hacker;AI+%2F+ML+Specialist;Full-Stack+Dev;Open+Source+Contributor" alt="Typing SVG" />
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/M.S.-Computer_Science-4B0082?style=flat-square&logo=google-scholar&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-San_Francisco,_CA-4B0082?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Self-Learner-4B0082?style=flat-square&logo=google-scholar&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-India,_CA-4B0082?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
   <br/>
   <br/>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>

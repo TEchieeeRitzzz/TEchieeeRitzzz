@@ -6,7 +6,7 @@
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/Self-Learner-4B0082?style=flat-square&logo=google-scholar&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-India,_CA-4B0082?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-India-4B0082?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
   <br/>
   <br/>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>

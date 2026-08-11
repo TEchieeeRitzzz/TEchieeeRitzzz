@@ -169,7 +169,7 @@ Software Engineer & Cyber Specialist with a deep focus on building scalable ente
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=9370DB&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEchieeeRitzzz&bg_color=0d1117&color=9370DB&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -177,7 +177,7 @@ Software Engineer & Cyber Specialist with a deep focus on building scalable ente
 ## Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/TEchieeeRitzzz/TEchieeeRitzzz/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
